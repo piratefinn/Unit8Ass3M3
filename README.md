@@ -1,2 +1,2 @@
 # Unit8Ass3M3
-Task for college
+Refer to the Wiki tab above for more info about this site.
